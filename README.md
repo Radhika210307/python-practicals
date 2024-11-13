@@ -51,6 +51,7 @@ Practical 5
 
 <img width="960" alt="Screenshot 2024-11-08 221952" src="https://github.com/user-attachments/assets/56536e7f-7adc-4bea-98bf-9a3b2909507e">
      c. Remove the first occurrences of a character from a string.
+<img width="960" alt="Screenshot 2024-11-08 222933" src="https://github.com/user-attachments/assets/f6aca790-3aab-487a-a7e4-c0cfebaf51ee">
 
      d. Remove all occurrences of a character from a string.
 Practical 6                                                                      
