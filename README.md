@@ -3,7 +3,10 @@ Practical 1
 <img width="960" alt="Screenshot 2024-11-08 230611" src="https://github.com/user-attachments/assets/bca0849a-9396-4727-bdaa-76076ace8589">
 
 Practical 2
+WAP to accept a number 'n' and
+
    (a) check if 'n' is prime
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/8d311f31-f60c-4192-81a5-c4df5e119a34">
 
 
 
