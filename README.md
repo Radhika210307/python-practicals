@@ -87,7 +87,8 @@ b. list  comprehension
  Practical 9
  WAP to read a file and
   a. Print the total number of characters, words and lines in the file.
-  
+  <img width="960" alt="image" src="https://github.com/user-attachments/assets/6c36c962-6b1e-48c4-9e78-27dddbb636f0">
+
   b. Calculate the frequency of each character in the file. use a variable of dictionary type to maintain the count.
   
   c. Print the words in reverse order.
