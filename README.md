@@ -78,8 +78,10 @@ Practical 8
  WAP to create a list of the cubes of only the even integers appearing in the input list (may have elements of other types also) using the following
 
 a. 'for' loop
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/26412ac2-b3cc-4f18-9b6d-22b0b1268f53">
 
 b. list  comprehension
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/ed8d6373-5db9-4c35-88ae-5b7b77f033f6">
 
 
  Practical 9
