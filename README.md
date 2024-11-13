@@ -8,13 +8,15 @@ Practical 2
 
 
    (b) generate all prime numbers till 'n'.
+
+<img width="960" alt="Screenshot 2024-11-08 131053" src="https://github.com/user-attachments/assets/87ba701c-cb68-424e-a5e2-71f3b4be007a">
 <img width="960" alt="Screenshot 2024-11-08 131010" src="https://github.com/user-attachments/assets/71fcf106-f998-4184-a342-af4d3b61c493">
 
 
    (c) generate first 'n' prime numbers.
 
-   
-
+  <img width="960" alt="Screenshot 2024-11-08 133414" src="https://github.com/user-attachments/assets/b25dc8f5-338f-45fe-868b-81396a400b34"> 
+<img width="960" alt="Screenshot 2024-11-08 133345" src="https://github.com/user-attachments/assets/a8717dd1-9b54-4ac4-9728-ead32fa5d018">
 
 
 Practical 3
@@ -82,6 +84,12 @@ b . Calculate the frequency of each character in the file.
 
 
 
+
+
+
+
+
+<img width="960" alt="Screenshot 2024-11-08 135659" src="https://github.com/user-attachments/assets/a9235b60-04b2-43c4-ba10-3538df79378e">
 
 
 
