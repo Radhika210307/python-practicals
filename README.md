@@ -71,10 +71,11 @@ Practical 6
 Practical 7
    Write a function that accepts two strings and returns the indices of all the occurrences of the secound string in the first string as a list . if the secound string is not present in the first string then it should return -1.
    
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/9e5cb9ed-0d5c-46f2-8932-537a19df3dde">
 
 Practical 8
 
- WAP toate a list of the cubes of only the even integers appearing in the input lis (may have dements of ather types about wing the following
+ WAP to create a list of the cubes of only the even integers appearing in the input list (may have elements of other types also) using the following
 
 a. 'for' loop
 
