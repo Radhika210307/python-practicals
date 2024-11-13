@@ -61,6 +61,8 @@ Practical 5
 <img width="960" alt="Screenshot 2024-11-08 222933" src="https://github.com/user-attachments/assets/f6aca790-3aab-487a-a7e4-c0cfebaf51ee">
 
      d. Remove all occurrences of a character from a string.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/8c36485d-9d41-4933-9ef2-caa224bf65a8">
+
 Practical 6                                                                      
    WAP to swap the first n characters of two string.
 
