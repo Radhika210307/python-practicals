@@ -36,6 +36,8 @@ Practical 4
 
 
 
+Practical 5
+   WAP to perform the
 Practical 6                                                                      
    WAP to swap the first n characters of two string.
 
@@ -43,19 +45,41 @@ Practical 6
 
 Practical 7
    Write a function that accepts two strings and returns the indices of all the occurrences of the secound string in the first string as a list . if the secound string is not present in the first string then it should return -1.
-
-
    
 
-<img width="960" alt="Screenshot 2024-11-08 220715" src="https://github.com/user-attachments/assets/a78eafa8-bf7f-48bf-b44c-47<img width="960" alt="Screenshot 2024-11-08 221952" src="https://github.com/user-attachments/assets/56536e7f-7adc-4bea-98bf-9a3b2909507e">
-f465186b53">
-<img width="960" alt="Screenshot 2024-11-08 133414" src="https://github.com/user-attachments/assets/def686b6-ba7d-4ccd-91c1-<img width="960" alt="Screenshot 2024-11-08 162016" src="https://github.com/user-attachments/assets/4ca068d9-2ef3-4e85-8b0d-
+Practical 8
+
+ WAP toate a list of the cubes of only the even integers appearing in the input lis (may have dements of ather types about wing the following
+
+a. 'for' loop
+
+b. list  comprehension
+
+
+ Practical 9
+ WAP to read a file and
+
+a . Print the total number of characters, words and lines in the file.
+
+b . Calculate the frequency of each character in the file. 
+   
+
+<img width="960" alt="Screenshot 2024-11-08 220715" src="https://github.com/user-attachments/assets/a78eafa8-bf7f-48bf-b44c-47
+
+<img width="960" alt="Screenshot 2024-11-08 221952" src="https://github.com/user-attachments/assets/56536e7f-7adc-4bea-98bf-9a3b2909507e">
+
+
+<img width="960" alt="Screenshot 2024-11-08 133414" src="https://github.com/user-attachments/assets/def686b6-ba7d-4ccd-91c1-
+
+<img width="960" alt="Screenshot 2024-11-08 162016" src="https://github.com/user-attachments/assets/4ca068d9-2ef3-4e85-8b0d-
 
 
 
 
 <img width="960" alt="Screenshot 2024-11-08 162051" src="https://github.com/user-attachments/assets/6ef422d7-9e51-498c-a274-d55e4dcd48da">
+
 <img width="960" alt="Screenshot 2024-11-08 220740" src="https://github.com/user-attachments/assets/070cffb5-c8e3-4dd1-ab61-c0b82e6a5493">
+
 <img width="960" alt="Screenshot 2024-11-08 162016" src="https://github.com/user-attachments/assets/e3bba5d4-4d8b-4936-bd1b-c279994a2d07">
 
 
