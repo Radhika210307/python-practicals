@@ -5,7 +5,7 @@ Practical 4
    WAP that accepts a character and perform the following:
     (a) print wheather the character is letter or numeric digit or a special character.
 
-<img width="960" alt="Screenshot 2024-11-08 162016" src="https://github.com/user-attachments/assets/4ca068d9-2ef3-4e85-8b0d-
+
 <img width="960" alt="Screenshot 2024-11-08 165003" src="https://github.com/user-attachments/assets/a45df102-057b-4f10-8068-efe3d1ae1413">
 <img width="960" alt="Screenshot 2024-11-08 164934" src="https://github.com/user-attachments/assets/819715d7-5574-4593-9130-2dc0068513ac">
 <img width="960" alt="Screenshot 2024-11-08 162051" src="https://github.com/user-attachments/assets/6ef422d7-9e51-498c-a274-d55e4dcd48da">
@@ -20,6 +20,9 @@ Practical 4
    WAP that accepts a character and perform the following:
     (a) print wheather the character is letter or numeric digit or a special character.
 
+    (b) if the character is a letter , print whether the letter is upper case or lowercase.
+<img width="960" alt="Screenshot 2024-11-08 165003" src="https://github.com/user-attachments/assets/a45df102-057b-4f10-8068-efe3d1ae1413">
+<img width="960" alt="Screenshot 2024-11-08 164934" src="https://github.com/user-attachments/assets/819715d7-5574-4593-9130-2dc0068513ac">
 <img width="960" alt="Screenshot 2024-11-08 220715" src="https://github.com/user-attachments/assets/a78eafa8-bf7f-48bf-b44c-47<img width="960" alt="Screenshot 2024-11-08 221952" src="https://github.com/user-attachments/assets/56536e7f-7adc-4bea-98bf-9a3b2909507e">
 
 Practical 6                                                                      
