@@ -34,10 +34,25 @@ Practical 4
 
 (c) if the character is a numeric digit, print its name in text.
 
+<img width="960" alt="Screenshot 2024-11-08 162016" src="https://github.com/user-attachments/assets/e3bba5d4-4d8b-4936-bd1b-c279994a2d07">
 
+<img width="960" alt="Screenshot 2024-11-08 162051" src="https://github.com/user-attachments/assets/6ef422d7-9e51-498c-a274-d55e4dcd48da">
 
 Practical 5
-   WAP to perform the
+   WAP as perform the following operation on a string
+
+     a. Find the frequency of a character in a string.
+
+
+<img width="960" alt="Screenshot 2024-11-08 220740" src="https://github.com/user-attachments/assets/070cffb5-c8e3-4dd1-ab61-c0b82e6a5493">
+
+
+     b. Replace a character by another character in a string.
+
+<img width="960" alt="Screenshot 2024-11-08 221952" src="https://github.com/user-attachments/assets/56536e7f-7adc-4bea-98bf-9a3b2909507e">
+     c. Remove the first occurrences of a character from a string.
+
+     d. Remove all occurrences of a character from a string.
 Practical 6                                                                      
    WAP to swap the first n characters of two string.
 
@@ -64,23 +79,19 @@ a . Print the total number of characters, words and lines in the file.
 b . Calculate the frequency of each character in the file. 
    
 
-<img width="960" alt="Screenshot 2024-11-08 220715" src="https://github.com/user-attachments/assets/a78eafa8-bf7f-48bf-b44c-47
-
-<img width="960" alt="Screenshot 2024-11-08 221952" src="https://github.com/user-attachments/assets/56536e7f-7adc-4bea-98bf-9a3b2909507e">
-
-
-<img width="960" alt="Screenshot 2024-11-08 133414" src="https://github.com/user-attachments/assets/def686b6-ba7d-4ccd-91c1-
-
-<img width="960" alt="Screenshot 2024-11-08 162016" src="https://github.com/user-attachments/assets/4ca068d9-2ef3-4e85-8b0d-
 
 
 
 
-<img width="960" alt="Screenshot 2024-11-08 162051" src="https://github.com/user-attachments/assets/6ef422d7-9e51-498c-a274-d55e4dcd48da">
-
-<img width="960" alt="Screenshot 2024-11-08 220740" src="https://github.com/user-attachments/assets/070cffb5-c8e3-4dd1-ab61-c0b82e6a5493">
-
-<img width="960" alt="Screenshot 2024-11-08 162016" src="https://github.com/user-attachments/assets/e3bba5d4-4d8b-4936-bd1b-c279994a2d07">
 
 
-<img width="960" alt="Screenshot 2024-11-08 221952" src="https://github.com/user-attachments/assets/56536e7f-7adc-4bea-98bf-9a3b2909507e">
+
+
+
+
+
+
+
+
+
+
