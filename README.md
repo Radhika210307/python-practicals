@@ -8,7 +8,7 @@ Practical 2
 
 
    (b) generate all prime numbers till 'n'.
-
+<img width="960" alt="Screenshot 2024-11-08 131010" src="https://github.com/user-attachments/assets/71fcf106-f998-4184-a342-af4d3b61c493">
 
 
    (c) generate first 'n' prime numbers.
