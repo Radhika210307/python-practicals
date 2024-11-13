@@ -28,6 +28,7 @@ Practical 4
    WAP that accepts a character and perform the following:
    
     (a) print wheather the character is letter or numeric digit or a special character.
+<img width="960" alt="Screenshot 2024-11-08 135659" src="https://github.com/user-attachments/assets/a9235b60-04b2-43c4-ba10-3538df79378e">
 <img width="960" alt="Screenshot 2024-11-08 135633" src="https://github.com/user-attachments/assets/35a5a938-cb07-45df-ab9d-c158a9e86e3d">
 
     (b) if the character is a letter , print whether the letter is upper case or lowercase.
@@ -89,7 +90,7 @@ b . Calculate the frequency of each character in the file.
 
 
 
-<img width="960" alt="Screenshot 2024-11-08 135659" src="https://github.com/user-attachments/assets/a9235b60-04b2-43c4-ba10-3538df79378e">
+
 
 
 
