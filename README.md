@@ -48,6 +48,7 @@ Practical 5
    WAP as perform the following operation on a string
 
      a. Find the frequency of a character in a string.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/a0562b90-c38e-457b-bfff-10da31504794">
 
 
 <img width="960" alt="Screenshot 2024-11-08 220740" src="https://github.com/user-attachments/assets/070cffb5-c8e3-4dd1-ab61-c0b82e6a5493">
