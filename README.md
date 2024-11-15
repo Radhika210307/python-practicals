@@ -86,6 +86,7 @@ b. list  comprehension
 
  Practical 9
  WAP to read a file and
+ 
   a. Print the total number of characters, words and lines in the file.
   <img width="960" alt="image" src="https://github.com/user-attachments/assets/6c36c962-6b1e-48c4-9e78-27dddbb636f0">
 
@@ -93,11 +94,33 @@ b. list  comprehension
   
   c. Print the words in reverse order.
 
+  d. Copy even lines of the file to a file named 'File1'and odd lines to another file named 'File2'.
+  
+Practical 10
+WAP to define a class Point with coordinates x and y as attributes. Create relevant methods and print the objects. Also define a method distance to calculate the distance between any two point objects.
+
+
+Practical 11
+Write a function that prints a dictionary where the keys are numbers between 1 and 5 and the values are cubes of the keys.
 
 
 
 
+Practical 12
+Consider a tuple t1(1, 2, 5, 7, 9, 2, 4, 6, 8, 10). WAP to perform following operations
 
+a. Print half the values of the tuple in one line and the other half in the next line.
+
+b. Print another tuple whose values are even numbers in the given tuple.
+
+c. Concatenate a tuple t2=(11,13,15) with t1.
+
+d. Return maximum and minimum value from this tuple.
+
+
+
+Practical 13
+WAP to accept a name from a user. Raise and handle appropriate exception(s) if the text entered by the user contains digits and/or special characters.
 
 
 
