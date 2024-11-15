@@ -110,12 +110,16 @@ Practical 12
 Consider a tuple t1(1, 2, 5, 7, 9, 2, 4, 6, 8, 10). WAP to perform following operations
 
 a. Print half the values of the tuple in one line and the other half in the next line.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/9217a87e-d89d-4b90-9161-a709f52248ea">
 
 b. Print another tuple whose values are even numbers in the given tuple.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/b958bab1-acdd-4db8-902d-ebaf6a5e841e">
 
 c. Concatenate a tuple t2=(11,13,15) with t1.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/ac6579f0-e604-4524-b15b-f29dd45a0ff0">
 
 d. Return maximum and minimum value from this tuple.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/1ef51c6f-ec4d-4fd0-aaaa-9162ac357acc">
 
 
 
