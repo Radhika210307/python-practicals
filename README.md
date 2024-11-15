@@ -98,11 +98,13 @@ b. list  comprehension
   
 Practical 10
 WAP to define a class Point with coordinates x and y as attributes. Create relevant methods and print the objects. Also define a method distance to calculate the distance between any two point objects.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/f3c78b3a-588e-4aff-a94c-791a34821118">
 
 
 Practical 11
 Write a function that prints a dictionary where the keys are numbers between 1 and 5 and the values are cubes of the keys.
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/3c323f3e-8ec0-481d-8328-2ab01f283df2">
 
 
 
