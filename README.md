@@ -98,7 +98,15 @@ b. list  comprehension
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/2fb9f95f-c732-44b6-ae03-72f1e432a44a">
 
   d. Copy even lines of the file to a file named 'File1'and odd lines to another file named 'File2'.
-  
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/a946536f-ddfc-4d07-8123-e6fa7c4623a2">
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/75a127fb-74cc-4547-96e3-2c715eca3e6c">
+
+ <img width="960" alt="image" src="https://github.com/user-attachments/assets/84f839b1-3885-45ca-871e-ec15de430ee6">
+
+ <img width="960" alt="image" src="https://github.com/user-attachments/assets/34281e5f-83e1-47fc-af40-d6494cca0d6a">
+
+
 Practical 10
 WAP to define a class Point with coordinates x and y as attributes. Create relevant methods and print the objects. Also define a method distance to calculate the distance between any two point objects.
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/f3c78b3a-588e-4aff-a94c-791a34821118">
