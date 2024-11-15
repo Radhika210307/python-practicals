@@ -122,6 +122,7 @@ d. Return maximum and minimum value from this tuple.
 Practical 13
 WAP to accept a name from a user. Raise and handle appropriate exception(s) if the text entered by the user contains digits and/or special characters.
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/7ad2d789-c4bd-40a4-8215-faf9da8e7fb2">
 
 
 
