@@ -88,11 +88,14 @@ b. list  comprehension
  WAP to read a file and
  
   a. Print the total number of characters, words and lines in the file.
-  <img width="960" alt="image" src="https://github.com/user-attachments/assets/6c36c962-6b1e-48c4-9e78-27dddbb636f0">
+  
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/1b7f3be2-9caa-43cb-8d9e-f6b408c38f34">
 
   b. Calculate the frequency of each character in the file. use a variable of dictionary type to maintain the count.
-  
+  <img width="960" alt="image" src="https://github.com/user-attachments/assets/d0250ce9-2c51-43fe-96a0-0f3ecc169cf7">
+
   c. Print the words in reverse order.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/2fb9f95f-c732-44b6-ae03-72f1e432a44a">
 
   d. Copy even lines of the file to a file named 'File1'and odd lines to another file named 'File2'.
   
